@@ -1,4 +1,7 @@
 # codorniz
+This is a simple training app, to start getting into vuejs.
+
+Codorniz let you publish small messages on a personal board, similar to twitter.
 
 ## Project setup
 ```
